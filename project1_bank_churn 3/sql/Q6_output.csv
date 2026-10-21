@@ -1,0 +1,7 @@
+geography,activity_status,customers,churn_rate_pct
+France,Active,2591,11.5
+France,Inactive,2423,21.1
+Germany,Active,1248,23.7
+Germany,Inactive,1261,41.1
+Spain,Active,1312,10.7
+Spain,Inactive,1165,23.3

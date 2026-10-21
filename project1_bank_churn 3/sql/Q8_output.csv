@@ -1,0 +1,4 @@
+churn_risk_tier,customers,share_of_customers_pct,churned,actual_churn_rate_pct,share_of_all_churners_pct,avg_balance
+High,1480,14.8,972,65.7,47.7,90133.0
+Medium,5043,50.4,900,17.8,44.2,89660.0
+Low,3477,34.8,165,4.7,8.1,51569.0

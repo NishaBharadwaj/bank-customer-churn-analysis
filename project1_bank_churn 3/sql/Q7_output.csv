@@ -1,0 +1,5 @@
+segment,customers,churn_rate_pct
+gender: Female,4543,25.1
+gender: Male,5457,16.5
+balance: positive,6383,24.1
+balance: zero,3617,13.8
